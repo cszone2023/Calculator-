@@ -1,2 +1,0 @@
-# Calculator-
-calculator task LGM
